@@ -1,0 +1,15 @@
+Package: montyhall
+Title: Simulating the Monty Hall Problem
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Owen",
+           family = "Hurley",
+           role = c("aut", "cre"),
+           email = "owenhh98@gmail.com")
+Description: Provides functions for creating and simulating the Monty Hall problem. The package can be used to create games with two goats and one car and explore the outcomes of staying with or switching from an initial door selection.
+Depends:
+    dplyr
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Config/roxygen2/version: 8.1.0
